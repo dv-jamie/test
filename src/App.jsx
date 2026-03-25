@@ -5,7 +5,7 @@ function App() {
     <>
       <section id="center">
         <div>
-          <h1>TEST</h1>
+          <h1>사이트 준비 중입니다.</h1>
         </div>
       </section>
     </>
