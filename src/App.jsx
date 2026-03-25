@@ -1,4 +1,5 @@
 import './App.css'
+import ContactTest from './ContactTest'
 
 function App() {
   return (
@@ -8,6 +9,8 @@ function App() {
           <h1>사이트 준비 중입니다.</h1>
         </div>
       </section>
+
+      <ContactTest />
     </>
   )
 }
