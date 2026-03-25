@@ -39,7 +39,7 @@ export default function ContactTest() {
   return (
     <div className="max-w-md mx-auto mt-10 p-6 bg-white rounded-lg shadow-lg">
       <h2 className="text-2xl font-bold mb-6 text-gray-800">문의하기 테스트</h2>
-      <h3>function 경로 수정</h3>
+      <h3>메일 수신 주소 수정</h3>
       
       <form onSubmit={handleSubmit} className="space-y-4">
         <input
