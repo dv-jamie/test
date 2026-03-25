@@ -17,7 +17,7 @@ export async function onRequestPost(context) {
     },
     body: JSON.stringify({
       from: "onboarding@resend.dev", // 나중에 도메인 인증 후 수정 가능
-      to: "sjm2506@naver.com",     // <--- 실제 문의를 받을 메일 주소로 바꾸세요!
+      to: "sjm2506@gmail.com",     // <--- 실제 문의를 받을 메일 주소로 바꾸세요!
       subject: subject,
       reply_to: email, // 담당자가 메일함에서 바로 [답장] 누르면 문의자에게 가도록 설정
       html: `
